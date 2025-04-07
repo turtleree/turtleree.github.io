@@ -58,12 +58,12 @@ header h1 {
 }
 
 .kiki img {
-  width: 150px;
+  width: 200px;
   height: auto;
 }
 
 .info {
-  flex: 2;
+  flex: 1;
 }
 
 .mee {
